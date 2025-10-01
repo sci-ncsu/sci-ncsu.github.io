@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Second Chance Initiative'
+theme = 'Mainroad'
+
+[Params.style.vars]
+  highlightColor = "#cc0000"
+
+[Params.logo]
+  image = "assets/SCI-Logo.png"
+  title = "Second Chance Initiative"
+  subtitle = "North Carolina State University's chapter of the Second Chance Initiative program."
